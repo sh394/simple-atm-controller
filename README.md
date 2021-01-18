@@ -4,6 +4,8 @@
 
 # Build
   * Run the build inside an IDE like IntelliJ IDEA.
+  * Run ATM.java inside the IDE
+  * Or, Run javac ATM.java and java ATM.java on a command line
 
 # Tests
   * Sample PIN Number: 1234
