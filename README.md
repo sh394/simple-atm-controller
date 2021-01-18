@@ -7,4 +7,4 @@
 
 # Tests
   * Sample PIN Number: 1234
-  * Sample User ID: It is randomly given upon running. Please check the concole to use proper User ID as shown in the sample image.
+  * Sample User ID: It is randomly given upon running. Please check the console to use proper User ID as shown in the sample image.
